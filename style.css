@@ -1,0 +1,43 @@
+.bg-yellow {
+    background-color: rgb(218, 213, 196);
+}
+
+.bg-brown {
+    background-color: rgb(162, 142, 106);
+}
+
+.bg-green {
+    background-color: rgb(35, 81, 72);
+}
+
+.text-green {
+    color: rgb(35, 81, 72);
+}
+
+.text-yellow {
+    color: rgb(218, 213, 196);
+}
+
+.text-grey {
+    color: rgb(114, 113, 101);
+}
+
+
+.vrl {
+    writing-mode: vertical-rl;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.img-flu {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn-outline-yellow{
+    outline-color: rgb(218, 213, 196);
+}
+
